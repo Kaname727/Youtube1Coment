@@ -196,7 +196,6 @@ save_option_txt.pack(side=tk.LEFT, padx=5)
 submit_button = tk.Button(root, text="コメント取得", command=on_submit)
 submit_button.pack(pady=20)
 
-# apiを読み込み
 api_key = lak()
 api_key_entry.insert(0, api_key)
 
