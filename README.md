@@ -1,5 +1,6 @@
 # Youtube1Coment
 youtubeの動画で一番最初にされたコメント所謂１コメを表示させます 
+
 使い方(gui)  
 0.realseからYoutube1ComentGUIをダウンロードし解凍  
 1.gui.exeを起動  
